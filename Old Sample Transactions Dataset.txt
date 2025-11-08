@@ -1,0 +1,8 @@
+"Transaction Alert: Your acct XXX123 has been debited for Rs. 1,500.00 on 20-Oct-2025 at STARBUCKS. Avl Bal: Rs. 50,000.",
+"Alert: A transaction of INR 350.50 was made with your Card XX456 on 21-Oct-2025 at UBER. Your balance is INR 49,649.50.",
+"Your account is debited for $14.99 on 22-Oct-2025 at NETFLIX.COM. Ref: 892374.",
+"Thank you for shopping! An amount of Rs. 4,200.00 has been debited from your account on 22-Oct-2025 at AMAZON SVCS. Avl Bal: Rs. 45,434.51",
+"Payment Received: A credit of Rs. 50,000.00 was processed to acct XXX123 on 23-Oct-2025. Ref: Monthly Salary.",
+"Your acct XXX123 has been debited for Rs. 85.00 on 23-Oct-2025 at ZOMATO.",
+"A transaction of INR 1,200.00 was made with your Card XX456 on 24-Oct-2025 at BIGBASKET.",
+"Your acct XXX123 has been debited for Rs. 3,000.00 on 25-Oct-2025 at SWIGGY INSTAMART."
